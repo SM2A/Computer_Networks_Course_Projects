@@ -1,0 +1,3 @@
+[submodule "FTP Server/Client"]
+	path = FTP Server/Client
+	url = https://github.com/SM2A/FTP_Server_Client
