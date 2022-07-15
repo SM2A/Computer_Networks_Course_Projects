@@ -4,3 +4,6 @@
 [submodule "Network Routing"]
 	path = Network Routing
 	url = https://github.com/SM2A/Network_Routing
+[submodule "TCP Router"]
+	path = TCP Router
+	url = https://github.com/SM2A/TCP_Router
