@@ -10,3 +10,6 @@
 [submodule "Network Simulation"]
 	path = Network Simulation
 	url = https://github.com/SM2A/Network_Simulation
+[submodule "CA1"]
+	path = CA1
+	url = https://github.com/SM2A/CN_CA1
