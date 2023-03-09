@@ -16,3 +16,6 @@
 [submodule "CA2 - NS3"]
 	path = CA2 - NS3
 	url = https://github.com/SM2A/CN_CA2
+[submodule "CA3"]
+	path = CA3
+	url = https://github.com/SM2A/CN_CA3
